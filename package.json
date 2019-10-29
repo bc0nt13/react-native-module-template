@@ -1,0 +1,10 @@
+{
+  "name": "library-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Bruno Conti <bruno.conti@taplabs.rocks>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.6.4"
+  }
+}
