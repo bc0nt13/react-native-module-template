@@ -4,7 +4,14 @@
   "main": "index.js",
   "author": "Bruno Conti <bruno.conti@taplabs.rocks>",
   "license": "MIT",
+  "scripts": {
+    "check": "gts check",
+    "clean": "gts clean",
+    "compile": "tsc -p .",
+    "fix": "gts fix"
+  },
   "devDependencies": {
+    "gts": "^1.1.0",
     "typescript": "^3.6.4"
   }
 }
