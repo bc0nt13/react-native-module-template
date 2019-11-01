@@ -1,6 +1,6 @@
 {
   "name": "library-template",
-  "version": "1.0.2",
+  "version": "1.0.6",
   "description": "Library Template",
   "homepage": "https://github.com/bc0nt13/library-template#readme",
   "main": "lib/index.js",
@@ -8,6 +8,7 @@
   "author": "Bruno Conti <bruno.conti@taplabs.rocks>",
   "license": "MIT",
   "files": [
+    "android",
     "ios",
     "lib",
     "library-template.podspec"
