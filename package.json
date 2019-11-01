@@ -6,6 +6,7 @@
   "author": "Bruno Conti <bruno.conti@taplabs.rocks>",
   "license": "MIT",
   "files": [
+    "ios",
     "lib"
   ],
   "scripts": {
