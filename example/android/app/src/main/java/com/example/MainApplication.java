@@ -1,6 +1,6 @@
 package com.example;
 
-import com.bc0nt13.librarytemplate.LibraryTemplatePackage;
+import com.bc0nt13.reactnativemoduletemplate.RNModuleTemplatePackage;
 
 import android.app.Application;
 import android.content.Context;
@@ -27,7 +27,7 @@ public class MainApplication extends Application implements ReactApplication {
           List<ReactPackage> packages = new PackageList(this).getPackages();
           // Packages that cannot be autolinked yet can be added manually here, for example:
           // packages.add(new MyReactNativePackage());
-          packages.add(new LibraryTemplatePackage());
+          packages.add(new RNModuleTemplatePackage());
           return packages;
         }
 

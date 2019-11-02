@@ -1,8 +1,8 @@
 {
-  "name": "library-template",
-  "version": "1.0.6",
-  "description": "Library Template",
-  "homepage": "https://github.com/bc0nt13/library-template#readme",
+  "name": "react-native-module-template",
+  "version": "1.0.2",
+  "description": "React Native Module Template",
+  "homepage": "https://github.com/bc0nt13/react-native-module-template#readme",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "author": "Bruno Conti <bruno.conti@taplabs.rocks>",
@@ -11,7 +11,7 @@
     "android",
     "ios",
     "lib",
-    "library-template.podspec"
+    "react-native-module-template.podspec"
   ],
   "scripts": {
     "check": "gts check",
