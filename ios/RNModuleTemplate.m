@@ -2,7 +2,7 @@
 //  RNModuleTemplate.m
 //  RNModuleTemplate
 //
-//  Copyright © 2019 Bruno Conti. All rights reserved.
+//  Copyright © 2020 Bruno Conti. All rights reserved.
 //
 
 #import "RNModuleTemplate.h"
